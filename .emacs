@@ -18,6 +18,9 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 (setq user-full-name "Jim Zhou")
 
+;; initial start-up directory
+(setq default-directory "E:\\")
+
 ;; inhibit startup message
 (setq inhibit-startup-message t)
 
